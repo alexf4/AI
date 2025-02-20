@@ -4,7 +4,7 @@ This guide outlines the steps to set up a comprehensive local development enviro
 
 ## 1. Windsurf IDE Installation
 Windsurf is a specialized IDE designed for AI development:
-1. Download Windsurf from the official website
+1. Download Windsurf from the official website -> https://codeium.com/
 2. Install and follow the setup wizard
 3. Configure your preferred settings for AI development
 
